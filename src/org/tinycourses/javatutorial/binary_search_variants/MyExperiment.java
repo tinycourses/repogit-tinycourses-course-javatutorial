@@ -3,7 +3,7 @@ package org.tinycourses.javatutorial.binary_search_variants;
 
 /**
  * Created with IntelliJ IDEA.
- * User: meng
+ * User: TinyCourses
  * Date: 3/17/14
  * Time: 8:12 PM
  * To change this template use File | Settings | File Templates.

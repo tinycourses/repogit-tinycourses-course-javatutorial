@@ -2,7 +2,7 @@ package org.tinycourses.javatutorial.bitwise_operator;
 
 /**
  * Created with IntelliJ IDEA.
- * User: meng
+ * User: TinyCourses
  * Date: 3/13/14
  * Time: 4:35 PM
  * To change this template use File | Settings | File Templates.

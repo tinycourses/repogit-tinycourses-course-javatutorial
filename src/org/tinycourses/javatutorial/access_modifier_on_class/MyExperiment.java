@@ -5,7 +5,7 @@ import org.tinycourses.javatutorial.access_modifier_on_class.package2.subpackage
 
 /**
  * Created with IntelliJ IDEA.
- * User: meng
+ * User: TinyCourses
  * Date: 3/12/14
  * Time: 6:10 PM
  * To change this template use File | Settings | File Templates.
