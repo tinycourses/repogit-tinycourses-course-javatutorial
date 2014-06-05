@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0ce460a-7ca9-4c9f-817e-e4de178d5dc7" name="Default" comment="+ added experiment with Java class StringBuffer.  &#10;&#10;% Relocated some packages.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/tinycourses/javatutorial/stringbuffer/StringBufferExperiment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/tinycourses/javatutorial/org/tinycourses/javatutorial/formatter/ExperimentFormatter.java" afterPath="$PROJECT_DIR$/src/org/tinycourses/javatutorial/formatter/ExperimentFormatter.java" />
+    <list default="true" id="f0ce460a-7ca9-4c9f-817e-e4de178d5dc7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ClassClass.iws" />
@@ -547,12 +545,17 @@
       <workItem from="1395983460027" duration="721000" />
       <workItem from="1397520374284" duration="1254000" />
       <workItem from="1397521635258" duration="2726000" />
-      <workItem from="1401928224535" duration="1263000" />
+      <workItem from="1401928224535" duration="1280000" />
     </task>
+    <task id="LOCAL-00001" summary="+ added experiment with Java class StringBuffer.  &#10;&#10;% Relocated some packages.">
+      <created>1401929500254</created>
+      <updated>1401929500254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10914000" />
+    <option name="totallyTimeSpent" value="10931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
@@ -573,7 +576,7 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20767196" sideWeight="0.9903949" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20767196" sideWeight="0.9903949" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
