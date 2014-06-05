@@ -1,4 +1,4 @@
-package org.tinycourses.javatutorial.org.tinycourses.javatutorial.formatter;
+package org.tinycourses.javatutorial.formatter;
 
 
 import java.util.GregorianCalendar;
