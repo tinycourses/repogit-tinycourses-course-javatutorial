@@ -1,7 +1,7 @@
 package org.tinycourses.javatutorial.stringbuffer;
 
 /**
- * Author: XXX XXX <XXX@gmail.com>
+ * Author: Tony Crusoe <tinyCourses@gmail.com>
  * Date: 6/4/14 5:35 PM
  */
 public class StringBufferExperiment {
