@@ -1,4 +1,4 @@
-package org.tinycourses.javatutorial.org.tinycourses.javatutorial.staticmember;
+package org.tinycourses.javatutorial.staticmember;
 
 /**
  * Author: Tony Crusoe <tinyCourses@gmail.com>
