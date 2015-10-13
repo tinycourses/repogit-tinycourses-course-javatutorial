@@ -2,7 +2,7 @@ package org.tinycourses.javatutorial.access_modifier_on_class.package1;
 
 /**
  * Created with IntelliJ IDEA.
- * User: TinyCourses
+ * Author: Tony Crusoe <tinyCourses@gmail.com>404
  * Date: 3/12/14
  * Time: 6:14 PM
  */

@@ -2,7 +2,7 @@ package org.tinycourses.javatutorial.abstract_class;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Tony Crusoe <tinyCourses@gmail.com>
+ * Author: Tony Crusoe <tinyCourses@gmail.com>
  * Date: 3/13/14
  * Time: 6:24 PM
  * Source: copied from http://xahlee.info/java-a-day/abstract_class.html

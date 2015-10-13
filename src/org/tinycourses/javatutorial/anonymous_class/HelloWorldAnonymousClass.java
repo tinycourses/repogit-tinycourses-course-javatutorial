@@ -2,7 +2,7 @@ package org.tinycourses.javatutorial.anonymous_class;
 
 /**
  * Created with IntelliJ IDEA.
- * User: TinyCourses
+ * Author: Tony Crusoe <tinyCourses@gmail.com>404
  * Date: 2/23/14
  * Time: 5:39 PM
  * To change this template use File | Settings | File Templates.

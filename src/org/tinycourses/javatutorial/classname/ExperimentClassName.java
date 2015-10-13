@@ -1,6 +1,6 @@
 /**
  * Created with IntelliJ IDEA.
- * User: TinyCourses
+ * Author: Tony Crusoe <tinyCourses@gmail.com>404
  * Date: 2/21/14
  * Time: 12:11 PM
  * To change this template use File | Settings | File Templates.
