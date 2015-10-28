@@ -9,26 +9,27 @@ public class StringBufferExperiment {
     public static void main(String[] args) {
         String s = "FooBar";
 
-        /* sb should be an empty initilaized in the following way. */
+        /* sb should be an empty string if initialized in the following way. */
         StringBuffer sb = new StringBuffer(10);
         System.out.println("sb = \"" + sb + "\"");
 
         /* Causes error java.lang.StringIndexOutOfBoundsException: start > length() */
+        System.out.println("sb.length() = " + sb.length());
 //        sb.replace(2, 3, s);
 
-        /* If sb is empty, i.e. has length 0, the following effectively inserts the whole s into sb at index 0, i.e. the first character. */
+
+        /* If sb is empty, i.e. has length 0, the following effectively inserts
+        the whole s into sb at index 0, i.e. the first character. */
         sb = new StringBuffer(10);
         sb.replace(0, 0, s);
         System.out.println("sb = \"" + sb + "\"");
 
-        /* If sb is empty, i.e. has length 0, the following also effectively copies s into sb. */
+        /* If sb is empty, i.e. has length 0, the following also effectively
+        copies s into sb. */
         sb = new StringBuffer(10);
         sb.replace(0, 2, s);
         System.out.println("sb = \"" + sb + "\"");
 
-        /* If sb is empty, i.e. has length 0, the following also effectively copies s into sb. */
-        sb.replace(0, 2, s);
-        System.out.println("sb = \"" + sb + "\"");
     }
 
 }
