@@ -5,8 +5,7 @@ import java.util.Date;
 
 /**
  * Author: Tony Crusoe <tinyCourses@gmail.com>
- * Date: 10/28/15
- * Time: 4:45 PM
+ * Date: 2015-10-28T16:45
  */
 public class StringBuilderExperiment {
 
