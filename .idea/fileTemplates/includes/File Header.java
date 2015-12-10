@@ -1,5 +1,4 @@
 /**
- * Author: Tony Crusoe <tinyCourses@gmail.com>
- * Date: ${DATE}
- * Time: ${TIME}
+ * Author: XXX <XXX@XXX.com>
+ * Date: ${DATE}T${TIME}
  */
